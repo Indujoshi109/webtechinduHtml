@@ -1,0 +1,79 @@
+<style>
+*{
+    margin: 0px;
+    padding:0px;
+}
+#nav_bar{
+    background-color: darkkhaki;
+}
+#nav_bar a:hover{
+    color:blueviolet;
+    margin-left: 40px;
+    text-decoration: none;
+
+}
+#slider{
+    height: 150px;
+    width:100%;
+    background-color: darkolivegreen;
+}
+.product{
+    width:150px;
+    height: 190px;
+    background-color: blanchedalmond;
+    border: 2px solid royalblue;
+}
+footer{
+    height: 200px;
+    width:100%;
+    background-color: brown;
+    color:darkturquoise;
+}
+#login_form{
+    height:350px;
+    width:200px;
+    background-color: cyan;
+    text-align:center;
+    margin-top: 10%;
+    margin-left: 15%;
+    padding:5px;
+    color:blanchedalmond;
+    border:2px solid rosybrown;
+    border-radius: 10px;
+    box-shadow: 10px 14px 3px rosybrown;
+}
+#reg_form{
+    height:400px;
+    width:200px;
+    background-color: rgb(0, 106, 255);
+    text-align:center;
+    margin-top: 10%;
+    margin-left: 15%;
+    padding:5px;
+    color:rgb(205, 255, 248);
+    border: 3px;px solid rgb(143, 188, 144, 0.696);
+    border-radius: 10px;
+    box-shadow: 10px 14px 3px rgba(188, 143, 143, 0.068);
+}
+#reg_form label{
+    display:inline-block;
+width:90px;
+}
+#submit_bin:hover{
+    background-color: blueviolet;
+    color: black;
+}
+#reg_form:hover{
+    background-color: rgb(226, 43, 174);
+    color: black;
+}
+
+#login_form input{
+    padding: 5px;
+    margin-top: 9px;
+}
+#reg_form{
+    padding: 3px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+</style>
